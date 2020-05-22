@@ -2,7 +2,7 @@
 
 The MNIST dataset contains 60,000 training images of handwritten digits from zero to nine and 10,000 images for testing. So, the MNIST dataset has 10 different classes.
 
-Required libraries:pip install numpy, tensorflow, keras.
+Required libraries: pip install numpy, tensorflow, keras.
 
 The Tkinter library comes in the Python standard library.I have created a function predict_digit() that takes the image as input and then uses the trained model to predict the digit.
 
