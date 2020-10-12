@@ -15,3 +15,7 @@ Then, created the app class which is responsible for building the GUI for our ap
 <hr>
 
 ![result2](https://user-images.githubusercontent.com/61036755/82662986-77d33780-9c4c-11ea-9ef7-394602e61f3f.png)
+
+
+
+If you like this repo, please don't forget to give a ⭐.
